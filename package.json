@@ -1,0 +1,14 @@
+{
+  "name": "rabbit",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "producer": "node producer.js",
+    "consumer": "node consumer.js"
+  },
+  "author": "",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "rascal": "^8.0.0"
+  }
+}
